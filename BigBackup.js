@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Big Backup
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  Makes it easier to see if the user needs a data backup
 // @author       ajzrcc
 // @match        https://apps.rit.edu/~a-tcent/admin/ticket.php*
