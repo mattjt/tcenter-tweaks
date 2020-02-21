@@ -23,8 +23,8 @@
         isTicket = false;
     }
     window.setInterval(function(){
+        var username = $('div.statusBar:first').text().substring(29, 35);
         if (isTicket){
-            var username = $('div.statusBar:first').text().substring(29, 35);
             $(".panel-heading-sm:contains('" + username +"')").css("color", "white").css("background-color", "#282828");
         }
         else{
