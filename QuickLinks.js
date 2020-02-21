@@ -6,6 +6,8 @@
 // @author       mjtrcc
 // @match        https://apps.rit.edu/~a-tcent/admin/ticket.php*
 // @match        https://apps.rit.edu/tcenter/admin/ticket.php*
+// @match        https://apps.rit.edu/~a-tcent/admin/ticketList.php
+// @match        https://apps.rit.edu/tcenter/admin/ticketList.php
 // @grant        none
 // @require http://code.jquery.com/jquery-3.4.1.min.js
 // ==/UserScript==
