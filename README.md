@@ -5,6 +5,7 @@ This is a collection of Tampermonkey scripts to allow TCenter to work just a lit
 These scripts REQUIRE the Tampermonkey extension for your browser in order to function properly.
 
 Download for Tampermonkey Google Chrome: [Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
 Download Tampermonkey for Firefox: [Mozilla Add-on Repository](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 ## Scripts included
