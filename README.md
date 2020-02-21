@@ -28,3 +28,5 @@ Replace the "User needs to be contacted" text with when the ticket was actually 
 ### Distraction Free Homepage
 Makes the homepage a bit cleaner
 
+### Quick Links
+Add more links to the quicklinks section
