@@ -36,3 +36,4 @@ Makes the homepage a bit cleaner
 
 ### Quick Links
 Add more links to the quicklinks section
+![](https://i.imgur.com/H4KRY0N.png)
