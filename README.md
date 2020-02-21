@@ -1,3 +1,4 @@
+
 # tcenter-tweaks
 Change the behavior of TCenter
 
@@ -15,18 +16,23 @@ Give TCenter a dark theme
 
 ### MyUpdates
 Highlight updates that you made to make them easier to see
+![enter image description here](https://i.imgur.com/uByZGCX.png)![enter image description here](https://i.imgur.com/8s3IqQz.png)
 
 ### Clickable Serials
 Sends Dell serial numbers to the Dell support page to avoid wasting time by searching for them. Sends Mac serial numbers to the Everymac lookup page for that serial number.
+![enter image description here](https://i.imgur.com/yR3AOLU.png)![enter image description here](https://i.imgur.com/Zf4Vrod.png)
 
 ### Big Backup
 Make it easier to see if a user has requested a data backup so that you don't miss it
+![enter image description here](https://i.imgur.com/HdmQsHb.png)![enter image description here](https://i.imgur.com/QWcXjuq.png)
 
 ### Ticket Opened
 Replace the "User needs to be contacted" text with when the ticket was actually opened
+![enter image description here](https://i.imgur.com/QWcXjuq.png)
 
 ### Distraction Free Homepage
 Makes the homepage a bit cleaner
+![enter image description here](https://i.imgur.com/gswX27a.png)![enter image description here](https://i.imgur.com/nuwRv8U.png)
 
 ### Quick Links
 Add more links to the quicklinks section
