@@ -11,9 +11,6 @@ Download Tampermonkey for Firefox: [Mozilla Add-on Repository](https://addons.mo
 
 ## Scripts included
 
-### TCenter Dark Theme
-Give TCenter a dark theme
-
 ### MyUpdates
 Highlight updates that you made to make them easier to see
 ![enter image description here](https://i.imgur.com/uByZGCX.png)![enter image description here](https://i.imgur.com/8s3IqQz.png)
@@ -37,3 +34,8 @@ Makes the homepage a bit cleaner
 ### Quick Links
 Add more links to the quicklinks section
 ![](https://i.imgur.com/H4KRY0N.png)
+
+## Themes
+
+### Dark Ocean
+A dark-blue TCenter theme
