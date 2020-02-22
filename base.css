@@ -1,0 +1,296 @@
+@import url("https://npmcdn.com/flatpickr@4.4.3/dist/themes/airbnb.css");
+.pageHeader {
+  min-height: 90px;
+  background-color: #000831;
+  margin: 0 0 15px 0; }
+
+.branding {
+  max-height: 95px;
+  padding: 0 15px; }
+
+.header-nav a {
+  color: #FFFFFF; }
+
+img.branding {
+  height: auto;
+  padding-left: 10px; }
+
+.statusBar {
+  height: 1.2em;
+  background-color: #0097c9;
+  color: #FFFFFF;
+  line-height: 1.2em;
+  font-size: 1.1em;
+  padding: 0 15px; }
+
+.header-nav {
+  list-style: none;
+  padding-right: 15px; }
+
+.header-nav li {
+  margin: 0;
+  padding: .25em 0;
+  line-height: 1em;
+  text-align: right; }
+  @media screen and (max-width: 768px) {
+    .header-nav li {
+      display: inline-block; }
+      .header-nav li :before {
+        content: "| "; } }
+
+.technet-link {
+  font-weight: 300;
+  padding-right: 15px; }
+
+
+.toaster {
+  width: 100%; }
+
+.page-footer {
+  height: 4em;
+  border-top: solid 1px #fff;
+  margin-top: 15px; }
+
+#ticketHolder {
+  margin: 0 1em; }
+
+.todo label {
+  font-size: 1em;
+  margin-left: 5px;
+  display: inline; }
+
+.todoBtns {
+  margin: 2px; }
+
+#status, #service_plan, #review {
+  width: 100%; }
+
+#todoContainer {
+  margin: 15px 0; }
+  #todoContainer > div:nth-child(odd) > div {
+    background-color: #ecf0f1; }
+  #todoContainer .todoCheck {
+    margin: 7px 0 0;
+    vertical-align: text-bottom; }
+  #todoContainer .todoLabel {
+    margin: 3px 0 0; }
+
+.todo {
+  min-width: 200px; }
+
+.edit {
+  border-bottom: 1px solid black; }
+
+.row.form-group {
+  margin-bottom: 0; }
+
+.has-error input {
+  border-width: 1px; }
+
+.modal textarea {
+  min-width: 100%;
+  min-height: 150px; }
+
+.ticketTopPanel .panel-body {
+  padding: 0 15px; }
+
+#triage .radio {
+  line-height: 2em;
+  margin-bottom: 0; }
+
+#closeBtns > button, #closeBtns > a {
+  margin-right: 5px; }
+
+.productKey, .serial, .hostname {
+  text-transform: uppercase; }
+
+#numberCanvas {
+  background-color: #fff;
+  margin-top: 10.5px; }
+
+@media screen and (min-width: 768px) {
+  .infoView .equal, .infoView .equal > div[class*='col-'] {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex: 1 0 auto;
+    align-items: center; } }
+
+.infoView, .cannedList, .otherTickets, .todos, .ticketStatus, .administration, #inventoryHolder .panel, .supportPlan {
+  background-color: transparent;
+  border-width: 0px;
+  box-shadow: none; }
+  .infoView .panel-heading, .cannedList .panel-heading, .otherTickets .panel-heading, .todos .panel-heading, .ticketStatus .panel-heading, .administration .panel-heading, #inventoryHolder .panel .panel-heading, .supportPlan .panel-heading {
+    background-color: transparent;
+    cursor: pointer; }
+  .infoView .panel-body, .cannedList .panel-body, .otherTickets .panel-body, .todos .panel-body, .ticketStatus .panel-body, .administration .panel-body, #inventoryHolder .panel .panel-body, .supportPlan .panel-body {
+    margin-top: 10px;
+    background-color: white;
+    border-width: 1px;
+    border-style: solid; }
+
+textarea.emailBody {
+  min-height: 50vh;
+  max-width: 100%; }
+
+hr {
+  margin: 15px 0; }
+
+.summaries .row {
+  margin-bottom: 5px; }
+
+textarea.has-error {
+  border-color: red; }
+
+.toBottomBtn {
+  position: fixed;
+  bottom: 5px;
+  left: 5px; }
+
+.panel-heading .ticketName, .panel-heading .passwordTop {
+  font-size: 20px;
+  font-family: monospace; }
+
+.ticketUpdate {
+  margin-top: 11px;
+  margin-bottom: 11px; }
+  .ticketUpdate p {
+    margin: 0;
+    word-wrap: break-word; }
+
+.autoSetDateBtn {
+  width: 100%;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-top: 8px;
+  margin-bottom: 8px; }
+
+.statusHeader {
+  border-bottom: #df691a 1px solid;
+  cursor: pointer; }
+
+
+.ticketView {
+  color: #fff; }
+  .ticketView .ticketNum {
+    font-weight: bold; }
+  .ticketView .label {
+    display: inline-block;
+    padding: .2em .3em .2em;
+    font-size: 85%;
+    font-weight: 500; }
+  .ticketView .row > * {
+    padding-left: 10px;
+    padding-right: 10px; }
+  .ticketView .panel-body {
+    background-color: #d8d8d8; }
+
+.ddText > * {
+  font-weight: bold; }
+
+.printBtn {
+  display: block;
+  margin: 0 auto; }
+
+.ticketViewContainer {
+  padding: 10px 5px 0px 5px; }
+  .ticketViewContainer .panel {
+    margin-bottom: 5px; }
+
+.statusList, .statusList .panel-heading {
+  background-color: transparent;
+  border-width: 0px;
+  box-shadow: none;
+  margin-bottom: 0; }
+
+.statusList .panel-heading {
+  padding-bottom: 2px; }
+
+.text-warning {
+  color: #fdfd2e; }
+
+.updateItem {
+  padding: 8px 0 8px 0;
+  word-wrap: break-word; }
+
+#outsidePage {
+  border: 2px solid orange;
+  border-right-width: 3px; }
+
+.page_link.active {
+  color: #fff;
+  background-color: #E98643; }
+
+#updateHistory {
+  text-align: center; }
+
+#pageSearch {
+  margin: 21px 0px; }
+
+#searchBar {
+  width: 130px; }
+
+#searchBtn {
+  margin-left: -4px; }
+
+.glyphicon-refresh-animate {
+  animation: spin .7s infinite linear;
+  -webkit-animation: spin2 .7s infinite linear;
+  -moz-animation: spin2 .7s infinite linear; }
+
+@-webkit-keyframes spin2 {
+  from {
+    -webkit-transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(360deg); } }
+
+@-moz-keyframes spin2 {
+  from {
+    -moz-transform: rotate(0deg); }
+  to {
+    -moz-transform: rotate(360deg); } }
+
+@keyframes spin {
+  from {
+    transform: scale(1) rotate(0deg); }
+  to {
+    transform: scale(1) rotate(360deg); } }
+
+.wrap-text {
+  word-wrap: break-word; }
+
+.page-content {
+  padding-bottom: 15px; }
+
+.nav.smallPills > li > a {
+  padding: 5px; }
+
+.bold {
+  font-weight: bold; }
+
+.clickable {
+  cursor: pointer; }
+
+.fixedNav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  left: 0;
+  z-index: 500;
+  transition: width .5s ease-in-out; }
+
+.panel-heading {
+  text-align: center;
+  border-bottom: 1px solid #FFFFFF !important; }
+
+.panel-heading-sm {
+  text-align: left;
+  font-size: 12px;
+  border-bottom-color: transparent !important; }
+
+.label-default {
+  padding: .2em .3em;
+  font-size: 85%;
+  font-weight: 600; }
